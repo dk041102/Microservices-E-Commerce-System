@@ -22,7 +22,7 @@ This system demonstrates real-world backend design used in production systems, i
 
 🧩 Microservices Architecture
 
-👨‍💻 Author
+👨‍💻 AUTHOR
 
 Deepak Kumar
 
