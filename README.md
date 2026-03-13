@@ -29,4 +29,4 @@ This system demonstrates real-world backend design used in production systems, i
 
 Deepak Kumar
 
-Backend Developer | Node.js | Microservices | Cloud Enthusiast
+Backend Developer | Node.js | Rest API | Microservices | Cloud Enthusiast 
